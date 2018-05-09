@@ -1,0 +1,3054 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "companyList": [
+        {
+          "brief": "咖啡配送连锁品牌",
+          "financePhase": "B+轮",
+          "id": 27511,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/com_logo_v3/logo_off_163329.jpg",
+          "name": "Coffee Box",
+          "pastInvestor": [
+            "启明创投",
+            "高榕资本",
+            "点亮基金",
+            "庭瑞集团有限公司",
+            "钟鼎创投",
+            "华策影视",
+            "北京凯撒世嘉文化传播有限责任公司",
+            "天津极客连享企业管理合伙企业（有限合伙）",
+            "星创投",
+            "戴军"
+          ],
+          "similar": "2.871158303416115",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "移动咖啡车运营商",
+          "financePhase": "天使轮",
+          "id": 92527753,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201803/30/78f23af52666e0fa0fb61a8fc56d6e9b.png",
+          "name": "GOGO动咖啡",
+          "pastInvestor": [
+            "动域资本"
+          ],
+          "similar": "2.551181055311693",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 16607,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201704/14/87052fa06941d7ae04ffca5062869977.png",
+          "name": "太平洋咖啡",
+          "pastInvestor": [],
+          "similar": "2.4488622380948093",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡餐饮连锁品牌",
+          "financePhase": "天使轮",
+          "id": 20909,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/201508/17115726/5ae9d2554dce5ccb.png",
+          "name": "伦敦桥咖啡",
+          "pastInvestor": [],
+          "similar": "2.41045446617038",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "英国咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 47818616,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201710/11/56495f59f16dcd39185b5703f6116f1e.png",
+          "name": "COSTA COFFEE",
+          "pastInvestor": [],
+          "similar": "2.4061537583255745",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "冰萃咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 12806290,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201804/17/937d48f4f8baabc0c694a5baa8a42311.png",
+          "name": "Sleep Owl",
+          "pastInvestor": [
+            "Dsg Consumer Partners"
+          ],
+          "similar": "2.3515269829719756",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡定制配送服务平台",
+          "financePhase": "未融资",
+          "id": 125009,
+          "industry": "消费生活",
+          "logo": "https://pic.36krcnd.com/avatar/201607/06090250/az8dkcu8diz8d4b2.jpg",
+          "name": "楼咖啡",
+          "pastInvestor": [],
+          "similar": "2.3488752685020557",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "手工咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 66675941,
+          "industry": "消费生活",
+          "logo": "",
+          "name": "潮客咖啡",
+          "pastInvestor": [
+            "信中利资本"
+          ],
+          "similar": "2.2922006232868597",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "新西兰移动咖啡服务提供商",
+          "financePhase": "未融资",
+          "id": 36723887,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201805/02/6d07ee8931f418b36332b0e610eb638c.png",
+          "name": "coffee gogo",
+          "pastInvestor": [],
+          "similar": "2.2698186224015107",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "连锁女仆咖啡厅",
+          "financePhase": "天使轮",
+          "id": 3219480,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201702/16/2b527a840a878ce3dcc6c296a4399b3c.png",
+          "name": "Nico女仆咖啡店",
+          "pastInvestor": [
+            "飞马基金"
+          ],
+          "similar": "2.176894618529331",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        }
+      ],
+      "tagName": "综合"
+    },
+    {
+      "companyList": [
+        {
+          "brief": "咖啡配送连锁品牌",
+          "financePhase": "B+轮",
+          "id": 27511,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/com_logo_v3/logo_off_163329.jpg",
+          "name": "Coffee Box",
+          "pastInvestor": [
+            "启明创投",
+            "高榕资本",
+            "点亮基金",
+            "庭瑞集团有限公司",
+            "钟鼎创投",
+            "华策影视",
+            "北京凯撒世嘉文化传播有限责任公司",
+            "天津极客连享企业管理合伙企业（有限合伙）",
+            "星创投",
+            "戴军"
+          ],
+          "similar": "2.871158303416115",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "移动咖啡车运营商",
+          "financePhase": "天使轮",
+          "id": 92527753,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201803/30/78f23af52666e0fa0fb61a8fc56d6e9b.png",
+          "name": "GOGO动咖啡",
+          "pastInvestor": [
+            "动域资本"
+          ],
+          "similar": "2.551181055311693",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 16607,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201704/14/87052fa06941d7ae04ffca5062869977.png",
+          "name": "太平洋咖啡",
+          "pastInvestor": [],
+          "similar": "2.4488622380948093",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡餐饮连锁品牌",
+          "financePhase": "天使轮",
+          "id": 20909,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/201508/17115726/5ae9d2554dce5ccb.png",
+          "name": "伦敦桥咖啡",
+          "pastInvestor": [],
+          "similar": "2.41045446617038",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "英国咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 47818616,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201710/11/56495f59f16dcd39185b5703f6116f1e.png",
+          "name": "COSTA COFFEE",
+          "pastInvestor": [],
+          "similar": "2.4061537583255745",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "冰萃咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 12806290,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201804/17/937d48f4f8baabc0c694a5baa8a42311.png",
+          "name": "Sleep Owl",
+          "pastInvestor": [
+            "Dsg Consumer Partners"
+          ],
+          "similar": "2.3515269829719756",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡定制配送服务平台",
+          "financePhase": "未融资",
+          "id": 125009,
+          "industry": "消费生活",
+          "logo": "https://pic.36krcnd.com/avatar/201607/06090250/az8dkcu8diz8d4b2.jpg",
+          "name": "楼咖啡",
+          "pastInvestor": [],
+          "similar": "2.3488752685020557",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "手工咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 66675941,
+          "industry": "消费生活",
+          "logo": "",
+          "name": "潮客咖啡",
+          "pastInvestor": [
+            "信中利资本"
+          ],
+          "similar": "2.2922006232868597",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "新西兰移动咖啡服务提供商",
+          "financePhase": "未融资",
+          "id": 36723887,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201805/02/6d07ee8931f418b36332b0e610eb638c.png",
+          "name": "coffee gogo",
+          "pastInvestor": [],
+          "similar": "2.2698186224015107",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "连锁女仆咖啡厅",
+          "financePhase": "天使轮",
+          "id": 3219480,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201702/16/2b527a840a878ce3dcc6c296a4399b3c.png",
+          "name": "Nico女仆咖啡店",
+          "pastInvestor": [
+            "飞马基金"
+          ],
+          "similar": "2.176894618529331",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        }
+      ],
+      "tagName": "非TMT"
+    },
+    {
+      "companyList": [
+        {
+          "brief": "咖啡配送连锁品牌",
+          "financePhase": "B+轮",
+          "id": 27511,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/com_logo_v3/logo_off_163329.jpg",
+          "name": "Coffee Box",
+          "pastInvestor": [
+            "启明创投",
+            "高榕资本",
+            "点亮基金",
+            "庭瑞集团有限公司",
+            "钟鼎创投",
+            "华策影视",
+            "北京凯撒世嘉文化传播有限责任公司",
+            "天津极客连享企业管理合伙企业（有限合伙）",
+            "星创投",
+            "戴军"
+          ],
+          "similar": "2.871158303416115",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "移动咖啡车运营商",
+          "financePhase": "天使轮",
+          "id": 92527753,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201803/30/78f23af52666e0fa0fb61a8fc56d6e9b.png",
+          "name": "GOGO动咖啡",
+          "pastInvestor": [
+            "动域资本"
+          ],
+          "similar": "2.551181055311693",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 16607,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201704/14/87052fa06941d7ae04ffca5062869977.png",
+          "name": "太平洋咖啡",
+          "pastInvestor": [],
+          "similar": "2.4488622380948093",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡餐饮连锁品牌",
+          "financePhase": "天使轮",
+          "id": 20909,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/201508/17115726/5ae9d2554dce5ccb.png",
+          "name": "伦敦桥咖啡",
+          "pastInvestor": [],
+          "similar": "2.41045446617038",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "英国咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 47818616,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201710/11/56495f59f16dcd39185b5703f6116f1e.png",
+          "name": "COSTA COFFEE",
+          "pastInvestor": [],
+          "similar": "2.4061537583255745",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "冰萃咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 12806290,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201804/17/937d48f4f8baabc0c694a5baa8a42311.png",
+          "name": "Sleep Owl",
+          "pastInvestor": [
+            "Dsg Consumer Partners"
+          ],
+          "similar": "2.3515269829719756",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡定制配送服务平台",
+          "financePhase": "未融资",
+          "id": 125009,
+          "industry": "消费生活",
+          "logo": "https://pic.36krcnd.com/avatar/201607/06090250/az8dkcu8diz8d4b2.jpg",
+          "name": "楼咖啡",
+          "pastInvestor": [],
+          "similar": "2.3488752685020557",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "手工咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 66675941,
+          "industry": "消费生活",
+          "logo": "",
+          "name": "潮客咖啡",
+          "pastInvestor": [
+            "信中利资本"
+          ],
+          "similar": "2.2922006232868597",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "新西兰移动咖啡服务提供商",
+          "financePhase": "未融资",
+          "id": 36723887,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201805/02/6d07ee8931f418b36332b0e610eb638c.png",
+          "name": "coffee gogo",
+          "pastInvestor": [],
+          "similar": "2.2698186224015107",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "连锁女仆咖啡厅",
+          "financePhase": "天使轮",
+          "id": 3219480,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201702/16/2b527a840a878ce3dcc6c296a4399b3c.png",
+          "name": "Nico女仆咖啡店",
+          "pastInvestor": [
+            "飞马基金"
+          ],
+          "similar": "2.176894618529331",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        }
+      ],
+      "tagName": "独立品牌"
+    },
+    {
+      "companyList": [
+        {
+          "brief": "咖啡配送连锁品牌",
+          "financePhase": "B+轮",
+          "id": 27511,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/com_logo_v3/logo_off_163329.jpg",
+          "name": "Coffee Box",
+          "pastInvestor": [
+            "启明创投",
+            "高榕资本",
+            "点亮基金",
+            "庭瑞集团有限公司",
+            "钟鼎创投",
+            "华策影视",
+            "北京凯撒世嘉文化传播有限责任公司",
+            "天津极客连享企业管理合伙企业（有限合伙）",
+            "星创投",
+            "戴军"
+          ],
+          "similar": "2.871158303416115",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "移动咖啡车运营商",
+          "financePhase": "天使轮",
+          "id": 92527753,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201803/30/78f23af52666e0fa0fb61a8fc56d6e9b.png",
+          "name": "GOGO动咖啡",
+          "pastInvestor": [
+            "动域资本"
+          ],
+          "similar": "2.551181055311693",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 16607,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201704/14/87052fa06941d7ae04ffca5062869977.png",
+          "name": "太平洋咖啡",
+          "pastInvestor": [],
+          "similar": "2.4488622380948093",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡餐饮连锁品牌",
+          "financePhase": "天使轮",
+          "id": 20909,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/201508/17115726/5ae9d2554dce5ccb.png",
+          "name": "伦敦桥咖啡",
+          "pastInvestor": [],
+          "similar": "2.41045446617038",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "英国咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 47818616,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201710/11/56495f59f16dcd39185b5703f6116f1e.png",
+          "name": "COSTA COFFEE",
+          "pastInvestor": [],
+          "similar": "2.4061537583255745",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "冰萃咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 12806290,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201804/17/937d48f4f8baabc0c694a5baa8a42311.png",
+          "name": "Sleep Owl",
+          "pastInvestor": [
+            "Dsg Consumer Partners"
+          ],
+          "similar": "2.3515269829719756",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡定制配送服务平台",
+          "financePhase": "未融资",
+          "id": 125009,
+          "industry": "消费生活",
+          "logo": "https://pic.36krcnd.com/avatar/201607/06090250/az8dkcu8diz8d4b2.jpg",
+          "name": "楼咖啡",
+          "pastInvestor": [],
+          "similar": "2.3488752685020557",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "手工咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 66675941,
+          "industry": "消费生活",
+          "logo": "",
+          "name": "潮客咖啡",
+          "pastInvestor": [
+            "信中利资本"
+          ],
+          "similar": "2.2922006232868597",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "新西兰移动咖啡服务提供商",
+          "financePhase": "未融资",
+          "id": 36723887,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201805/02/6d07ee8931f418b36332b0e610eb638c.png",
+          "name": "coffee gogo",
+          "pastInvestor": [],
+          "similar": "2.2698186224015107",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "连锁女仆咖啡厅",
+          "financePhase": "天使轮",
+          "id": 3219480,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201702/16/2b527a840a878ce3dcc6c296a4399b3c.png",
+          "name": "Nico女仆咖啡店",
+          "pastInvestor": [
+            "飞马基金"
+          ],
+          "similar": "2.176894618529331",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        }
+      ],
+      "tagName": "消费升级"
+    },
+    {
+      "companyList": [
+        {
+          "brief": "咖啡配送连锁品牌",
+          "financePhase": "B+轮",
+          "id": 27511,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/com_logo_v3/logo_off_163329.jpg",
+          "name": "Coffee Box",
+          "pastInvestor": [
+            "启明创投",
+            "高榕资本",
+            "点亮基金",
+            "庭瑞集团有限公司",
+            "钟鼎创投",
+            "华策影视",
+            "北京凯撒世嘉文化传播有限责任公司",
+            "天津极客连享企业管理合伙企业（有限合伙）",
+            "星创投",
+            "戴军"
+          ],
+          "similar": "2.871158303416115",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "移动咖啡车运营商",
+          "financePhase": "天使轮",
+          "id": 92527753,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201803/30/78f23af52666e0fa0fb61a8fc56d6e9b.png",
+          "name": "GOGO动咖啡",
+          "pastInvestor": [
+            "动域资本"
+          ],
+          "similar": "2.551181055311693",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 16607,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201704/14/87052fa06941d7ae04ffca5062869977.png",
+          "name": "太平洋咖啡",
+          "pastInvestor": [],
+          "similar": "2.4488622380948093",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡餐饮连锁品牌",
+          "financePhase": "天使轮",
+          "id": 20909,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/201508/17115726/5ae9d2554dce5ccb.png",
+          "name": "伦敦桥咖啡",
+          "pastInvestor": [],
+          "similar": "2.41045446617038",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "英国咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 47818616,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201710/11/56495f59f16dcd39185b5703f6116f1e.png",
+          "name": "COSTA COFFEE",
+          "pastInvestor": [],
+          "similar": "2.4061537583255745",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "冰萃咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 12806290,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201804/17/937d48f4f8baabc0c694a5baa8a42311.png",
+          "name": "Sleep Owl",
+          "pastInvestor": [
+            "Dsg Consumer Partners"
+          ],
+          "similar": "2.3515269829719756",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡定制配送服务平台",
+          "financePhase": "未融资",
+          "id": 125009,
+          "industry": "消费生活",
+          "logo": "https://pic.36krcnd.com/avatar/201607/06090250/az8dkcu8diz8d4b2.jpg",
+          "name": "楼咖啡",
+          "pastInvestor": [],
+          "similar": "2.3488752685020557",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "手工咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 66675941,
+          "industry": "消费生活",
+          "logo": "",
+          "name": "潮客咖啡",
+          "pastInvestor": [
+            "信中利资本"
+          ],
+          "similar": "2.2922006232868597",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "新西兰移动咖啡服务提供商",
+          "financePhase": "未融资",
+          "id": 36723887,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201805/02/6d07ee8931f418b36332b0e610eb638c.png",
+          "name": "coffee gogo",
+          "pastInvestor": [],
+          "similar": "2.2698186224015107",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "连锁女仆咖啡厅",
+          "financePhase": "天使轮",
+          "id": 3219480,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201702/16/2b527a840a878ce3dcc6c296a4399b3c.png",
+          "name": "Nico女仆咖啡店",
+          "pastInvestor": [
+            "飞马基金"
+          ],
+          "similar": "2.176894618529331",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        }
+      ],
+      "tagName": "B2C"
+    },
+    {
+      "companyList": [
+        {
+          "brief": "咖啡配送连锁品牌",
+          "financePhase": "B+轮",
+          "id": 27511,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/com_logo_v3/logo_off_163329.jpg",
+          "name": "Coffee Box",
+          "pastInvestor": [
+            "启明创投",
+            "高榕资本",
+            "点亮基金",
+            "庭瑞集团有限公司",
+            "钟鼎创投",
+            "华策影视",
+            "北京凯撒世嘉文化传播有限责任公司",
+            "天津极客连享企业管理合伙企业（有限合伙）",
+            "星创投",
+            "戴军"
+          ],
+          "similar": "2.871158303416115",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "移动咖啡车运营商",
+          "financePhase": "天使轮",
+          "id": 92527753,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201803/30/78f23af52666e0fa0fb61a8fc56d6e9b.png",
+          "name": "GOGO动咖啡",
+          "pastInvestor": [
+            "动域资本"
+          ],
+          "similar": "2.551181055311693",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 16607,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201704/14/87052fa06941d7ae04ffca5062869977.png",
+          "name": "太平洋咖啡",
+          "pastInvestor": [],
+          "similar": "2.4488622380948093",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡餐饮连锁品牌",
+          "financePhase": "天使轮",
+          "id": 20909,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/201508/17115726/5ae9d2554dce5ccb.png",
+          "name": "伦敦桥咖啡",
+          "pastInvestor": [],
+          "similar": "2.41045446617038",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "英国咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 47818616,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201710/11/56495f59f16dcd39185b5703f6116f1e.png",
+          "name": "COSTA COFFEE",
+          "pastInvestor": [],
+          "similar": "2.4061537583255745",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "冰萃咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 12806290,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201804/17/937d48f4f8baabc0c694a5baa8a42311.png",
+          "name": "Sleep Owl",
+          "pastInvestor": [
+            "Dsg Consumer Partners"
+          ],
+          "similar": "2.3515269829719756",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡定制配送服务平台",
+          "financePhase": "未融资",
+          "id": 125009,
+          "industry": "消费生活",
+          "logo": "https://pic.36krcnd.com/avatar/201607/06090250/az8dkcu8diz8d4b2.jpg",
+          "name": "楼咖啡",
+          "pastInvestor": [],
+          "similar": "2.3488752685020557",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "手工咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 66675941,
+          "industry": "消费生活",
+          "logo": "",
+          "name": "潮客咖啡",
+          "pastInvestor": [
+            "信中利资本"
+          ],
+          "similar": "2.2922006232868597",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "新西兰移动咖啡服务提供商",
+          "financePhase": "未融资",
+          "id": 36723887,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201805/02/6d07ee8931f418b36332b0e610eb638c.png",
+          "name": "coffee gogo",
+          "pastInvestor": [],
+          "similar": "2.2698186224015107",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "连锁女仆咖啡厅",
+          "financePhase": "天使轮",
+          "id": 3219480,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201702/16/2b527a840a878ce3dcc6c296a4399b3c.png",
+          "name": "Nico女仆咖啡店",
+          "pastInvestor": [
+            "飞马基金"
+          ],
+          "similar": "2.176894618529331",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        }
+      ],
+      "tagName": "消费生活"
+    },
+    {
+      "companyList": [
+        {
+          "brief": "咖啡配送连锁品牌",
+          "financePhase": "B+轮",
+          "id": 27511,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/com_logo_v3/logo_off_163329.jpg",
+          "name": "Coffee Box",
+          "pastInvestor": [
+            "启明创投",
+            "高榕资本",
+            "点亮基金",
+            "庭瑞集团有限公司",
+            "钟鼎创投",
+            "华策影视",
+            "北京凯撒世嘉文化传播有限责任公司",
+            "天津极客连享企业管理合伙企业（有限合伙）",
+            "星创投",
+            "戴军"
+          ],
+          "similar": "2.871158303416115",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "移动咖啡车运营商",
+          "financePhase": "天使轮",
+          "id": 92527753,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201803/30/78f23af52666e0fa0fb61a8fc56d6e9b.png",
+          "name": "GOGO动咖啡",
+          "pastInvestor": [
+            "动域资本"
+          ],
+          "similar": "2.551181055311693",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 16607,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201704/14/87052fa06941d7ae04ffca5062869977.png",
+          "name": "太平洋咖啡",
+          "pastInvestor": [],
+          "similar": "2.4488622380948093",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡餐饮连锁品牌",
+          "financePhase": "天使轮",
+          "id": 20909,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/201508/17115726/5ae9d2554dce5ccb.png",
+          "name": "伦敦桥咖啡",
+          "pastInvestor": [],
+          "similar": "2.41045446617038",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "英国咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 47818616,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201710/11/56495f59f16dcd39185b5703f6116f1e.png",
+          "name": "COSTA COFFEE",
+          "pastInvestor": [],
+          "similar": "2.4061537583255745",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "冰萃咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 12806290,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201804/17/937d48f4f8baabc0c694a5baa8a42311.png",
+          "name": "Sleep Owl",
+          "pastInvestor": [
+            "Dsg Consumer Partners"
+          ],
+          "similar": "2.3515269829719756",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡定制配送服务平台",
+          "financePhase": "未融资",
+          "id": 125009,
+          "industry": "消费生活",
+          "logo": "https://pic.36krcnd.com/avatar/201607/06090250/az8dkcu8diz8d4b2.jpg",
+          "name": "楼咖啡",
+          "pastInvestor": [],
+          "similar": "2.3488752685020557",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "手工咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 66675941,
+          "industry": "消费生活",
+          "logo": "",
+          "name": "潮客咖啡",
+          "pastInvestor": [
+            "信中利资本"
+          ],
+          "similar": "2.2922006232868597",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "新西兰移动咖啡服务提供商",
+          "financePhase": "未融资",
+          "id": 36723887,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201805/02/6d07ee8931f418b36332b0e610eb638c.png",
+          "name": "coffee gogo",
+          "pastInvestor": [],
+          "similar": "2.2698186224015107",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "连锁女仆咖啡厅",
+          "financePhase": "天使轮",
+          "id": 3219480,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201702/16/2b527a840a878ce3dcc6c296a4399b3c.png",
+          "name": "Nico女仆咖啡店",
+          "pastInvestor": [
+            "飞马基金"
+          ],
+          "similar": "2.176894618529331",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        }
+      ],
+      "tagName": "电商"
+    },
+    {
+      "companyList": [
+        {
+          "brief": "咖啡配送连锁品牌",
+          "financePhase": "B+轮",
+          "id": 27511,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/com_logo_v3/logo_off_163329.jpg",
+          "name": "Coffee Box",
+          "pastInvestor": [
+            "启明创投",
+            "高榕资本",
+            "点亮基金",
+            "庭瑞集团有限公司",
+            "钟鼎创投",
+            "华策影视",
+            "北京凯撒世嘉文化传播有限责任公司",
+            "天津极客连享企业管理合伙企业（有限合伙）",
+            "星创投",
+            "戴军"
+          ],
+          "similar": "2.871158303416115",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "移动咖啡车运营商",
+          "financePhase": "天使轮",
+          "id": 92527753,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201803/30/78f23af52666e0fa0fb61a8fc56d6e9b.png",
+          "name": "GOGO动咖啡",
+          "pastInvestor": [
+            "动域资本"
+          ],
+          "similar": "2.551181055311693",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 16607,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201704/14/87052fa06941d7ae04ffca5062869977.png",
+          "name": "太平洋咖啡",
+          "pastInvestor": [],
+          "similar": "2.4488622380948093",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡餐饮连锁品牌",
+          "financePhase": "天使轮",
+          "id": 20909,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/201508/17115726/5ae9d2554dce5ccb.png",
+          "name": "伦敦桥咖啡",
+          "pastInvestor": [],
+          "similar": "2.41045446617038",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "英国咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 47818616,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201710/11/56495f59f16dcd39185b5703f6116f1e.png",
+          "name": "COSTA COFFEE",
+          "pastInvestor": [],
+          "similar": "2.4061537583255745",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "冰萃咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 12806290,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201804/17/937d48f4f8baabc0c694a5baa8a42311.png",
+          "name": "Sleep Owl",
+          "pastInvestor": [
+            "Dsg Consumer Partners"
+          ],
+          "similar": "2.3515269829719756",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡定制配送服务平台",
+          "financePhase": "未融资",
+          "id": 125009,
+          "industry": "消费生活",
+          "logo": "https://pic.36krcnd.com/avatar/201607/06090250/az8dkcu8diz8d4b2.jpg",
+          "name": "楼咖啡",
+          "pastInvestor": [],
+          "similar": "2.3488752685020557",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "手工咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 66675941,
+          "industry": "消费生活",
+          "logo": "",
+          "name": "潮客咖啡",
+          "pastInvestor": [
+            "信中利资本"
+          ],
+          "similar": "2.2922006232868597",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "新西兰移动咖啡服务提供商",
+          "financePhase": "未融资",
+          "id": 36723887,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201805/02/6d07ee8931f418b36332b0e610eb638c.png",
+          "name": "coffee gogo",
+          "pastInvestor": [],
+          "similar": "2.2698186224015107",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "连锁女仆咖啡厅",
+          "financePhase": "天使轮",
+          "id": 3219480,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201702/16/2b527a840a878ce3dcc6c296a4399b3c.png",
+          "name": "Nico女仆咖啡店",
+          "pastInvestor": [
+            "飞马基金"
+          ],
+          "similar": "2.176894618529331",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        }
+      ],
+      "tagName": "酒水饮料"
+    },
+    {
+      "companyList": [
+        {
+          "brief": "咖啡配送连锁品牌",
+          "financePhase": "B+轮",
+          "id": 27511,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/com_logo_v3/logo_off_163329.jpg",
+          "name": "Coffee Box",
+          "pastInvestor": [
+            "启明创投",
+            "高榕资本",
+            "点亮基金",
+            "庭瑞集团有限公司",
+            "钟鼎创投",
+            "华策影视",
+            "北京凯撒世嘉文化传播有限责任公司",
+            "天津极客连享企业管理合伙企业（有限合伙）",
+            "星创投",
+            "戴军"
+          ],
+          "similar": "2.871158303416115",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "移动咖啡车运营商",
+          "financePhase": "天使轮",
+          "id": 92527753,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201803/30/78f23af52666e0fa0fb61a8fc56d6e9b.png",
+          "name": "GOGO动咖啡",
+          "pastInvestor": [
+            "动域资本"
+          ],
+          "similar": "2.551181055311693",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 16607,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201704/14/87052fa06941d7ae04ffca5062869977.png",
+          "name": "太平洋咖啡",
+          "pastInvestor": [],
+          "similar": "2.4488622380948093",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡餐饮连锁品牌",
+          "financePhase": "天使轮",
+          "id": 20909,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/201508/17115726/5ae9d2554dce5ccb.png",
+          "name": "伦敦桥咖啡",
+          "pastInvestor": [],
+          "similar": "2.41045446617038",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "英国咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 47818616,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201710/11/56495f59f16dcd39185b5703f6116f1e.png",
+          "name": "COSTA COFFEE",
+          "pastInvestor": [],
+          "similar": "2.4061537583255745",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "冰萃咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 12806290,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201804/17/937d48f4f8baabc0c694a5baa8a42311.png",
+          "name": "Sleep Owl",
+          "pastInvestor": [
+            "Dsg Consumer Partners"
+          ],
+          "similar": "2.3515269829719756",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡定制配送服务平台",
+          "financePhase": "未融资",
+          "id": 125009,
+          "industry": "消费生活",
+          "logo": "https://pic.36krcnd.com/avatar/201607/06090250/az8dkcu8diz8d4b2.jpg",
+          "name": "楼咖啡",
+          "pastInvestor": [],
+          "similar": "2.3488752685020557",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "手工咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 66675941,
+          "industry": "消费生活",
+          "logo": "",
+          "name": "潮客咖啡",
+          "pastInvestor": [
+            "信中利资本"
+          ],
+          "similar": "2.2922006232868597",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "新西兰移动咖啡服务提供商",
+          "financePhase": "未融资",
+          "id": 36723887,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201805/02/6d07ee8931f418b36332b0e610eb638c.png",
+          "name": "coffee gogo",
+          "pastInvestor": [],
+          "similar": "2.2698186224015107",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "连锁女仆咖啡厅",
+          "financePhase": "天使轮",
+          "id": 3219480,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201702/16/2b527a840a878ce3dcc6c296a4399b3c.png",
+          "name": "Nico女仆咖啡店",
+          "pastInvestor": [
+            "飞马基金"
+          ],
+          "similar": "2.176894618529331",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        }
+      ],
+      "tagName": "生活消费品"
+    },
+    {
+      "companyList": [
+        {
+          "brief": "咖啡配送连锁品牌",
+          "financePhase": "B+轮",
+          "id": 27511,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/com_logo_v3/logo_off_163329.jpg",
+          "name": "Coffee Box",
+          "pastInvestor": [
+            "启明创投",
+            "高榕资本",
+            "点亮基金",
+            "庭瑞集团有限公司",
+            "钟鼎创投",
+            "华策影视",
+            "北京凯撒世嘉文化传播有限责任公司",
+            "天津极客连享企业管理合伙企业（有限合伙）",
+            "星创投",
+            "戴军"
+          ],
+          "similar": "2.871158303416115",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "移动咖啡车运营商",
+          "financePhase": "天使轮",
+          "id": 92527753,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201803/30/78f23af52666e0fa0fb61a8fc56d6e9b.png",
+          "name": "GOGO动咖啡",
+          "pastInvestor": [
+            "动域资本"
+          ],
+          "similar": "2.551181055311693",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 16607,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201704/14/87052fa06941d7ae04ffca5062869977.png",
+          "name": "太平洋咖啡",
+          "pastInvestor": [],
+          "similar": "2.4488622380948093",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡餐饮连锁品牌",
+          "financePhase": "天使轮",
+          "id": 20909,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/201508/17115726/5ae9d2554dce5ccb.png",
+          "name": "伦敦桥咖啡",
+          "pastInvestor": [],
+          "similar": "2.41045446617038",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "英国咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 47818616,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201710/11/56495f59f16dcd39185b5703f6116f1e.png",
+          "name": "COSTA COFFEE",
+          "pastInvestor": [],
+          "similar": "2.4061537583255745",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "冰萃咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 12806290,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201804/17/937d48f4f8baabc0c694a5baa8a42311.png",
+          "name": "Sleep Owl",
+          "pastInvestor": [
+            "Dsg Consumer Partners"
+          ],
+          "similar": "2.3515269829719756",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡定制配送服务平台",
+          "financePhase": "未融资",
+          "id": 125009,
+          "industry": "消费生活",
+          "logo": "https://pic.36krcnd.com/avatar/201607/06090250/az8dkcu8diz8d4b2.jpg",
+          "name": "楼咖啡",
+          "pastInvestor": [],
+          "similar": "2.3488752685020557",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "手工咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 66675941,
+          "industry": "消费生活",
+          "logo": "",
+          "name": "潮客咖啡",
+          "pastInvestor": [
+            "信中利资本"
+          ],
+          "similar": "2.2922006232868597",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "新西兰移动咖啡服务提供商",
+          "financePhase": "未融资",
+          "id": 36723887,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201805/02/6d07ee8931f418b36332b0e610eb638c.png",
+          "name": "coffee gogo",
+          "pastInvestor": [],
+          "similar": "2.2698186224015107",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "连锁女仆咖啡厅",
+          "financePhase": "天使轮",
+          "id": 3219480,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201702/16/2b527a840a878ce3dcc6c296a4399b3c.png",
+          "name": "Nico女仆咖啡店",
+          "pastInvestor": [
+            "飞马基金"
+          ],
+          "similar": "2.176894618529331",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        }
+      ],
+      "tagName": "快消品牌"
+    },
+    {
+      "companyList": [
+        {
+          "brief": "咖啡配送连锁品牌",
+          "financePhase": "B+轮",
+          "id": 27511,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/com_logo_v3/logo_off_163329.jpg",
+          "name": "Coffee Box",
+          "pastInvestor": [
+            "启明创投",
+            "高榕资本",
+            "点亮基金",
+            "庭瑞集团有限公司",
+            "钟鼎创投",
+            "华策影视",
+            "北京凯撒世嘉文化传播有限责任公司",
+            "天津极客连享企业管理合伙企业（有限合伙）",
+            "星创投",
+            "戴军"
+          ],
+          "similar": "2.871158303416115",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "移动咖啡车运营商",
+          "financePhase": "天使轮",
+          "id": 92527753,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201803/30/78f23af52666e0fa0fb61a8fc56d6e9b.png",
+          "name": "GOGO动咖啡",
+          "pastInvestor": [
+            "动域资本"
+          ],
+          "similar": "2.551181055311693",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 16607,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201704/14/87052fa06941d7ae04ffca5062869977.png",
+          "name": "太平洋咖啡",
+          "pastInvestor": [],
+          "similar": "2.4488622380948093",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡餐饮连锁品牌",
+          "financePhase": "天使轮",
+          "id": 20909,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/201508/17115726/5ae9d2554dce5ccb.png",
+          "name": "伦敦桥咖啡",
+          "pastInvestor": [],
+          "similar": "2.41045446617038",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "英国咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 47818616,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201710/11/56495f59f16dcd39185b5703f6116f1e.png",
+          "name": "COSTA COFFEE",
+          "pastInvestor": [],
+          "similar": "2.4061537583255745",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "冰萃咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 12806290,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201804/17/937d48f4f8baabc0c694a5baa8a42311.png",
+          "name": "Sleep Owl",
+          "pastInvestor": [
+            "Dsg Consumer Partners"
+          ],
+          "similar": "2.3515269829719756",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡定制配送服务平台",
+          "financePhase": "未融资",
+          "id": 125009,
+          "industry": "消费生活",
+          "logo": "https://pic.36krcnd.com/avatar/201607/06090250/az8dkcu8diz8d4b2.jpg",
+          "name": "楼咖啡",
+          "pastInvestor": [],
+          "similar": "2.3488752685020557",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "手工咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 66675941,
+          "industry": "消费生活",
+          "logo": "",
+          "name": "潮客咖啡",
+          "pastInvestor": [
+            "信中利资本"
+          ],
+          "similar": "2.2922006232868597",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "新西兰移动咖啡服务提供商",
+          "financePhase": "未融资",
+          "id": 36723887,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201805/02/6d07ee8931f418b36332b0e610eb638c.png",
+          "name": "coffee gogo",
+          "pastInvestor": [],
+          "similar": "2.2698186224015107",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "连锁女仆咖啡厅",
+          "financePhase": "天使轮",
+          "id": 3219480,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201702/16/2b527a840a878ce3dcc6c296a4399b3c.png",
+          "name": "Nico女仆咖啡店",
+          "pastInvestor": [
+            "飞马基金"
+          ],
+          "similar": "2.176894618529331",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        }
+      ],
+      "tagName": "食品饮料"
+    },
+    {
+      "companyList": [
+        {
+          "brief": "咖啡配送连锁品牌",
+          "financePhase": "B+轮",
+          "id": 27511,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/com_logo_v3/logo_off_163329.jpg",
+          "name": "Coffee Box",
+          "pastInvestor": [
+            "启明创投",
+            "高榕资本",
+            "点亮基金",
+            "庭瑞集团有限公司",
+            "钟鼎创投",
+            "华策影视",
+            "北京凯撒世嘉文化传播有限责任公司",
+            "天津极客连享企业管理合伙企业（有限合伙）",
+            "星创投",
+            "戴军"
+          ],
+          "similar": "2.871158303416115",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "移动咖啡车运营商",
+          "financePhase": "天使轮",
+          "id": 92527753,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201803/30/78f23af52666e0fa0fb61a8fc56d6e9b.png",
+          "name": "GOGO动咖啡",
+          "pastInvestor": [
+            "动域资本"
+          ],
+          "similar": "2.551181055311693",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 16607,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201704/14/87052fa06941d7ae04ffca5062869977.png",
+          "name": "太平洋咖啡",
+          "pastInvestor": [],
+          "similar": "2.4488622380948093",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡餐饮连锁品牌",
+          "financePhase": "天使轮",
+          "id": 20909,
+          "industry": "消费生活",
+          "logo": "https://krplus-pic.b0.upaiyun.com/201508/17115726/5ae9d2554dce5ccb.png",
+          "name": "伦敦桥咖啡",
+          "pastInvestor": [],
+          "similar": "2.41045446617038",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "英国咖啡连锁品牌",
+          "financePhase": "未融资",
+          "id": 47818616,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201710/11/56495f59f16dcd39185b5703f6116f1e.png",
+          "name": "COSTA COFFEE",
+          "pastInvestor": [],
+          "similar": "2.4061537583255745",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "冰萃咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 12806290,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201804/17/937d48f4f8baabc0c694a5baa8a42311.png",
+          "name": "Sleep Owl",
+          "pastInvestor": [
+            "Dsg Consumer Partners"
+          ],
+          "similar": "2.3515269829719756",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "咖啡定制配送服务平台",
+          "financePhase": "未融资",
+          "id": 125009,
+          "industry": "消费生活",
+          "logo": "https://pic.36krcnd.com/avatar/201607/06090250/az8dkcu8diz8d4b2.jpg",
+          "name": "楼咖啡",
+          "pastInvestor": [],
+          "similar": "2.3488752685020557",
+          "similarInfo": [
+            "食品饮料",
+            "消费生活",
+            "咖啡品牌",
+            "非TMT",
+            "生活消费品",
+            "B2C",
+            "酒水饮料",
+            "快消品牌",
+            "消费升级",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "手工咖啡品牌",
+          "financePhase": "天使轮",
+          "id": 66675941,
+          "industry": "消费生活",
+          "logo": "",
+          "name": "潮客咖啡",
+          "pastInvestor": [
+            "信中利资本"
+          ],
+          "similar": "2.2922006232868597",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "新西兰移动咖啡服务提供商",
+          "financePhase": "未融资",
+          "id": 36723887,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201805/02/6d07ee8931f418b36332b0e610eb638c.png",
+          "name": "coffee gogo",
+          "pastInvestor": [],
+          "similar": "2.2698186224015107",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        },
+        {
+          "brief": "连锁女仆咖啡厅",
+          "financePhase": "天使轮",
+          "id": 3219480,
+          "industry": "消费生活",
+          "logo": "http://krplus-pic.b0.upaiyun.com/201702/16/2b527a840a878ce3dcc6c296a4399b3c.png",
+          "name": "Nico女仆咖啡店",
+          "pastInvestor": [
+            "飞马基金"
+          ],
+          "similar": "2.176894618529331",
+          "similarInfo": [
+            "生活消费品",
+            "食品饮料",
+            "B2C",
+            "酒水饮料",
+            "消费生活",
+            "快消品牌",
+            "消费升级",
+            "咖啡品牌",
+            "非TMT",
+            "独立品牌",
+            "电商"
+          ]
+        }
+      ],
+      "tagName": "咖啡品牌"
+    }
+  ],
+  "msg": "操作成功！"
+}

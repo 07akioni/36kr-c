@@ -1,0 +1,38 @@
+{
+  "code": 0,
+  "data": {
+    "members": [
+      {
+        "updateTime": 1525394734000,
+        "avatar": "http://krplus-pic.b0.upaiyun.com/201711/17/b7cf8f8c1fbd1240feeef8e8a9f7083d.png",
+        "positionValue": 0,
+        "isShow": 1,
+        "intro": "硕士研究生学历，毕业于北京大学高级工商管理学专业；1998年8月至1999年8月任胜科（天津）建设工程有限公司武汉分公司副经理；1999年8月至2004年2月任长江发展（武汉）有限公司人事经理、副总经理；2004年2月至2005年3月任华夏联合总裁助理；2005年3月至2007年8月任北京华夏联合汽车俱乐部有限公司副总裁；2007年9月至2016年11月任神州专车COO；2017年7月创立瑞幸咖啡。",
+        "name": "钱治亚",
+        "attachUid": 0,
+        "weixinQr": "",
+        "id": 366151,
+        "position": "CEO",
+        "isFundManager": 0,
+        "isFounder": 1,
+        "cid": 51163101
+      },
+      {
+        "updateTime": 1525862728000,
+        "avatar": "http://krplus-pic.b0.upaiyun.com/201805/09/a76dc1099ca58b7ddae9cd738d8d843d.jpg",
+        "positionValue": 0,
+        "isShow": 1,
+        "intro": "毕业于中国传媒大学，传播学硕士。曾先后任中国国际公关协会理事；中国互联网协会网络营销工作委员会专家委员；北京大学MBA班整合传播学讲师；五粮液、中粮集团等多家企业的网络营销顾问；于2015年3月出任神州优车集团CMO。于2015年获得长城奖；2017年获得金瞳奖；著有《流量池》一书。",
+        "name": "杨飞",
+        "attachUid": 0,
+        "id": 413328,
+        "position": "CMO",
+        "isFundManager": 0,
+        "isFounder": 1,
+        "cid": 51163101
+      }
+    ],
+    "story": ""
+  },
+  "msg": "操作成功！"
+}
