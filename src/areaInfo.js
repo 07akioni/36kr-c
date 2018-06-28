@@ -1,3 +1,6 @@
+const path = require('path')
+const fs = require('fs')
+
 /*
  * 将信息保存在 data/area.json 中
  */
@@ -22,3 +25,5 @@ function readAreaInfo () {
   const areaInfo = require(areaFilePath)
   return areaInfo.data.data
 }
+
+module.exports = { saveArea }
